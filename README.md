@@ -21,3 +21,5 @@ etape 2
 
 
 modification clem la chipie
+
+git pull
